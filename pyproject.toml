@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "djangoninjaplayground"
+version = "0.1.0"
+description = ""
+authors = ["Cybernetic-Ransomware <71835339+Cybernetic-Ransomware@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.1.2"
+django-ninja = "^1.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
