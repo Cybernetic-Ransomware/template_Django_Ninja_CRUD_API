@@ -8,7 +8,7 @@ Quick implementation of two instances of Django Ninja with basic CRUD operations
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Cybernetic-Ransomware/template_.git
+    git clone https://github.com/Cybernetic-Ransomware/template_Django_Ninja_CRUD_API.git
     ```
 2. Install Python >= 3.12.
 3. Create a virtual environment:
@@ -49,3 +49,4 @@ Quick implementation of two instances of Django Ninja with basic CRUD operations
 ## Useful Links and Documentation
 
 - Django Ninja CRUD example: [https://django-ninja.dev/tutorial/other/crud/)
+  - Schemas need to be updated to work with partial data, as applied in this template.
